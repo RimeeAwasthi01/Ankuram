@@ -67,7 +67,7 @@ Ankuram/
 
 ---
 
-## 🗄️ Database
+## Database
 - Uses MySQL database  
 - Stores application data  
 - Connected using JDBC  
@@ -82,7 +82,7 @@ Ankuram/
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Improve UI using Bootstrap  
 - Apply MVC architecture  
 - Add input validation and error handling  
@@ -91,19 +91,19 @@ Ankuram/
 
 ---
 
-## 📖 Note
+## Note
 This project represents my **first step into full-stack development**.
 
 The focus was on learning core concepts rather than following advanced practices, but it helped build a strong foundation in web development.
 
 ---
 
-## 🙌 Usage
+## Usage
 This project is intended for learning purposes.
 
 Feel free to explore, modify, and use it to understand basic web development concepts.
 
 ---
 
-## ❗ Screenshots
+## Screenshots
 Screenshots are not available as this is an older project.
