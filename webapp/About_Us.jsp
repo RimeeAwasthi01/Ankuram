@@ -59,8 +59,8 @@ ul {
 	
     <div class="card1">
         <h4>Created & Designed by,</h4>
-        <span>Yashit Tripathi<br>
-			Rimee Awasthi</span><br>
+        <span>Rimee Awasthi<br>
+			Yashit Tripathi</span><br>
         
     </div>
 		<div class="card-footer text-muted" style="text-align: center; padding-top: 1px;"> 
