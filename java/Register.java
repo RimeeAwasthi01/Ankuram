@@ -23,7 +23,7 @@ public class Register extends HttpServlet {
 		String query = "insert into std_reg(Name,Email,Password,Mobile_number) values(?,?,?,?);";
 		String url = "jdbc:mysql://localhost:3306/mca";
 		String Uname = "root";
-		String Upass = "Rimee@2001";
+		String Upass = "your_db_password";
 	 
 		
 		try {
