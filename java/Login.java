@@ -19,7 +19,7 @@ public class Login extends HttpServlet {
 	String query = "select * from std_reg;";
 	String url = "jdbc:mysql://localhost:3306/mca";
 	String Uname = "root";
-	String Upass = "Rimee@2001";
+	String Upass = "your_db_password";
 	
 	//POst method
 
