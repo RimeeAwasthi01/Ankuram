@@ -110,7 +110,7 @@ td{
 				try {
 					PrintWriter pt = response.getWriter();
 					Class.forName("com.mysql.cj.jdbc.Driver");
-					Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/mca", "root", "Rimee@2001");
+					Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/mca", "root", "your_db_password");
 					Statement stmt = con.createStatement();
 					ResultSet rs = stmt.executeQuery("select * from std_reg ;");
 					while (rs.next()) {
