@@ -23,7 +23,7 @@ public class DeleteServlet extends HttpServlet {
 		String query = "delete from std_reg where Id="+id;
 		String url = "jdbc:mysql://localhost:3306/mca";
 		String Uname = "root";
-		String Upass = "Rimee@2001";
+		String Upass = "your_db_password";
 
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
