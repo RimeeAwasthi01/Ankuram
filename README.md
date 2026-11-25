@@ -1,6 +1,6 @@
 # Ankuram - Student Management System
  
-**Ankuram** is a Student Management System built with **JSP, Java Servlets and MySQL**. It lets schools and colleges register students, log in, and view, update and delete student records.
+**Ankuram** is a Student Management System built with **JSP, Java Servlets and MySQL**. It lets schools and colleges register students, log in, and view, update and delete student records. It was made as a college project for showing basic crud operations.
  
 ## Live Demo
  
